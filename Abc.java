@@ -1,6 +1,12 @@
 Class Abc{
 	public static void main(String args[]){
-		//System.out.println("hello world");
-System.out.ptinln("Abc");
+		
+		System.out.ptinln("Abc");
+}
+
+}
+class dup{
+void display(){
+System.out.println("this is func");
 }
 }
